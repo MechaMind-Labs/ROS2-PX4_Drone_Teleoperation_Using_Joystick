@@ -4,6 +4,10 @@ Control a **simulated drone** using **keyboard/ joystick commands** via **ROS 2 
 Visualize in **Gazebo**, monitor in **QGroundControl**, and bridge communication using the **Micro XRCE-DDS Agent**.
 
 ---
+## 🎥 Joystick based Drone Teleoperation Demo  
+https://github.com/user-attachments/assets/ecb34f04-d7c9-4618-aa5d-2d075a3f07f9
+
+---
 
 ## 🎯 Objective
 
