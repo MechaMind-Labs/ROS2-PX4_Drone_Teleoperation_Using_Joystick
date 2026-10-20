@@ -7,6 +7,15 @@ Visualize in **Gazebo**, monitor in **QGroundControl**, and bridge communication
 ## 🎥 Joystick based Drone Teleoperation Demo  
 https://github.com/user-attachments/assets/ecb34f04-d7c9-4618-aa5d-2d075a3f07f9
 
+
+> **At a glance:** PX4 Autopilot runs in software-in-the-loop with Gazebo; ROS 2 Humble talks to it through the Micro XRCE-DDS bridge; keyboard or joystick nodes send offboard position/velocity setpoints, and QGroundControl monitors the vehicle.
+>
+> **Watch:** [full 3-hour workshop](https://youtu.be/cXdP29a-SEQ) · [Gazebo flight demo](https://www.youtube.com/shorts/dWgP3Q3_Stk) · [teleoperation short](https://www.youtube.com/shorts/EipbcWtBeSk) · [Instagram reel](https://www.instagram.com/reel/Dbqm7jZCPIS/)
+>
+> **Follow-up work (videos):** [flight path in RViz](https://www.youtube.com/shorts/mf_U-tf995g) · [path visualisation, MechaMind Labs](https://www.youtube.com/shorts/apku9vcLpuk) · [polygon trajectory drawer](https://www.youtube.com/shorts/DnJsojozLOM)
+>
+> **Related:** [F450 quadcopter on an Arduino flight controller](https://github.com/Curious-Utkarsh/Arduino-Based-FC-Drone) · [Arduino joystick → ROS 2](https://github.com/MechaMind-Labs/Joystick_Module_Integration_with_ROS2)
+
 ---
 
 ## 🎯 Objective
@@ -83,7 +92,7 @@ source install/setup.bash
 In **Terminal 1**, start the full PX4 bringup:
 
 ```bash
-ros2 launch px_bringup minimal.launch.py
+ros2 launch px4_bringup minimal.launch.py
 ```
 
 ✔️ This launches:
