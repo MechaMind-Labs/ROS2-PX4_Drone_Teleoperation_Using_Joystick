@@ -12,6 +12,8 @@ https://github.com/user-attachments/assets/ecb34f04-d7c9-4618-aa5d-2d075a3f07f9
 >
 > **Watch:** [full 3-hour workshop](https://youtu.be/cXdP29a-SEQ) · [Gazebo flight demo](https://www.youtube.com/shorts/dWgP3Q3_Stk) · [teleoperation short](https://www.youtube.com/shorts/EipbcWtBeSk) · [Instagram reel](https://www.instagram.com/reel/Dbqm7jZCPIS/)
 >
+> **LinkedIn:** [PX4 + ROS 2 setup](https://www.linkedin.com/feed/update/urn:li:activity:7396407883480928256/) · [teleoperation demo](https://www.linkedin.com/feed/update/urn:li:activity:7398578617515085827/) · [workshop recap](https://www.linkedin.com/feed/update/urn:li:activity:7399303422908485632/) · [path visualisation](https://www.linkedin.com/feed/update/urn:li:activity:7400578883378593793/) · [polygon trajectory](https://www.linkedin.com/feed/update/urn:li:activity:7401889336608276480/)
+>
 > **Follow-up work (videos):** [flight path in RViz](https://www.youtube.com/shorts/mf_U-tf995g) · [path visualisation, MechaMind Labs](https://www.youtube.com/shorts/apku9vcLpuk) · [polygon trajectory drawer](https://www.youtube.com/shorts/DnJsojozLOM)
 >
 > **Related:** [F450 quadcopter on an Arduino flight controller](https://github.com/Curious-Utkarsh/Arduino-Based-FC-Drone) · [Arduino joystick → ROS 2](https://github.com/MechaMind-Labs/Joystick_Module_Integration_with_ROS2)
