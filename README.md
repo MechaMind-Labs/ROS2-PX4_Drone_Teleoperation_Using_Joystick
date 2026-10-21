@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/ecb34f04-d7c9-4618-aa5d-2d075a3f07f9
 >
 > **Follow-up work (videos):** [flight path in RViz](https://www.youtube.com/shorts/mf_U-tf995g) · [path visualisation, MechaMind Labs](https://www.youtube.com/shorts/apku9vcLpuk) · [polygon trajectory drawer](https://www.youtube.com/shorts/DnJsojozLOM)
 >
+> **Playlists:** [Workshops and Live Labs](https://www.youtube.com/playlist?list=PLdMuvhY3uTKtMOVVnfKRV4qswTEHeXTy2) · [Robotics Projects](https://www.youtube.com/playlist?list=PLdMuvhY3uTKstk7-rEB08oEmaAYHoISt5)
+>
 > **Related:** [F450 quadcopter on an Arduino flight controller](https://github.com/Curious-Utkarsh/f450-quadcopter-ymfc-al) · [Arduino joystick → ROS 2](https://github.com/MechaMind-Labs/arduino-joystick-to-ros2)
 
 ---
